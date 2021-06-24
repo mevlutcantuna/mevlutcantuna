@@ -1,11 +1,10 @@
 ## Hi there 👋  How you doing ?
 <br/>
 
-    I am living in Turkey and I have been learning and improving myself about Frontend technologies.I love being part of  development of Frontend technologies.Currently, I am learning and working on Typescript and NextJS.
+I am living in Turkey and I have been learning and improving myself about Frontend technologies.I love being part of  development of Frontend technologies.Currently, I am learning and working on Typescript and NextJS.
 
-<br/>
 
-# :pushpin: Social
+### :pushpin: Social
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mevlutcantuna)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mttuna90@gmail.com)
