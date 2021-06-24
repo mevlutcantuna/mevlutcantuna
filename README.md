@@ -1,7 +1,7 @@
 ## Hi there 👋  How you doing ?
 <br/>
 
-I am living in Turkey and I have been learning and improving myself about Frontend technologies.I love being part of  development of Frontend technologies.Currently, I am learning and working on Typescript and NextJS.
+I am living in Turkey and I have been learning and improving myself about Frontend technologies.I love being part of  development of Frontend technologies.
 
 
 ### :pushpin: Social
