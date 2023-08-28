@@ -27,6 +27,9 @@
 ![MATERIAL-UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
+### :book: Blogs
+[Problem Solving Patterns for Programming](https://medium.com/@mevlutcantuna/problem-solving-patterns-for-programming-67b26f9394b6)
+
 <br/>
 
 <details>
