@@ -45,6 +45,7 @@
 <summary>💡 Github Status</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=mevlutcantuna&theme=dark" >
 </details>
+
 <br/>
 
 <details>
