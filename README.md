@@ -38,6 +38,7 @@
 
 ### ⏲️ Packages
 [react-beautiful-timeline](https://www.npmjs.com/package/react-beautiful-timeline)
+[react-beautiful-wheel-picker](https://www.npmjs.com/package/react-beautiful-wheel-picker)
 
 <br/>
 
