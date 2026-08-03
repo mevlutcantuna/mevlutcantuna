@@ -2,7 +2,7 @@
 
 # Hi, I'm Mevlüt Can Tuna 👋
 
-### Frontend Engineer | Software Engineer
+### Frontend Engineer
 
 Building scalable, high-performance web applications with React, TypeScript, and modern web technologies.
 
@@ -24,7 +24,7 @@ Building scalable, high-performance web applications with React, TypeScript, and
 
 ## About Me
 
-Software Engineer with 4+ years of experience building scalable web applications with modern technologies.
+Frontend Engineer with 4+ years of experience building scalable web applications with modern technologies.
 
 Passionate about clean architecture, developer experience, and building products that are fast, reliable, and easy to maintain.
 
