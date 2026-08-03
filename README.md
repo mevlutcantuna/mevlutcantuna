@@ -32,7 +32,7 @@ Currently expanding my expertise in backend engineering, distributed systems, so
 
 ## Skills
 
-**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
+**Frontend:** React, Next.js, TypeScript, JavaScript, Redux, React Query, Tailwind CSS
 
 **Backend:** Node.js, NestJS, Express, GraphQL, PostgreSQL, Prisma
 
