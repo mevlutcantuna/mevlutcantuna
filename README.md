@@ -2,7 +2,7 @@
 
 # Hi, I'm Mevlüt Can Tuna 👋
 
-### Software Engineer
+### Frontend Engineer | Software Engineer
 
 Building scalable, high-performance web applications with React, TypeScript, and modern web technologies.
 
