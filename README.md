@@ -22,8 +22,6 @@ Building scalable, high-performance web applications with React, TypeScript, and
 
 </div>
 
----
-
 ## About Me
 
 Software Engineer with 4+ years of experience building scalable web applications with modern technologies.
@@ -32,48 +30,22 @@ Passionate about clean architecture, developer experience, and building products
 
 Currently expanding my expertise in backend engineering, distributed systems, software architecture, testing, and AI-powered applications.
 
----
-## Tech Stack
+## Skills
 
-### Languages
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
-</p>
+**Backend:** Node.js, NestJS, Express, GraphQL, PostgreSQL, Prisma
 
-### Frontend
+**Testing:** Jest, Vitest, Playwright, Cypress
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,tailwind,materialui" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,postgres,mongodb,prisma" />
-</p>
-
-### Testing
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vitest,jest,cypress,playwright" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" />
-</p>
-
----
+**Tools:** Git, Docker, Vite
 
 ## Open Source
 
-- [react-beautiful-timeline](https://www.npmjs.com/package/react-beautiful-timeline)
+[react-beautiful-timeline](https://www.npmjs.com/package/react-beautiful-timeline)
 
-- [react-beautiful-wheel-picker](https://www.npmjs.com/package/react-beautiful-wheel-picker)
+[react-beautiful-wheel-picker](https://www.npmjs.com/package/react-beautiful-wheel-picker)
 
----
 
 ## Technical Writing
 
@@ -82,5 +54,3 @@ Currently expanding my expertise in backend engineering, distributed systems, so
 📝 [What is Big O Notation?](https://medium.com/@mevlutcantuna/what-is-big-o-notation-with-examples-27740618cb94)
 
 📝 [Building a Modern React Component Library with Vite, TypeScript & Tailwind CSS](https://medium.com/@mevlutcantuna/building-a-modern-react-component-library-a-guide-with-vite-typescript-and-tailwind-css-862558516b8d)
-
----
