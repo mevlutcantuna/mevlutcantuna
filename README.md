@@ -42,9 +42,11 @@ Currently expanding my expertise in backend engineering, distributed systems, so
 
 ## Open Source
 
-[react-beautiful-timeline](https://www.npmjs.com/package/react-beautiful-timeline)
+📦 [react-beautiful-timeline](https://www.npmjs.com/package/react-beautiful-timeline)  
+Responsive React timeline component with vertical and horizontal layouts.
 
-[react-beautiful-wheel-picker](https://www.npmjs.com/package/react-beautiful-wheel-picker)
+📦 [react-beautiful-wheel-picker](https://www.npmjs.com/package/react-beautiful-wheel-picker)  
+Customizable wheel picker component for React applications.
 
 
 ## Technical Writing
